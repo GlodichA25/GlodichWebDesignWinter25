@@ -1,5 +1,7 @@
 body{
     background-color: rgb(144, 40, 40);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
 }
 h1{
     color: whitesmoke;
@@ -12,4 +14,26 @@ h3{
 }
 a{
     color: whitesmoke;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+iframe{
+    border-style: solid;
+    border-color: black;
 }
