@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(139, 211, 235);
+}
+.feat-title{
+  font-weight: bolder;
+  color: rgb(211, 9, 9);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
