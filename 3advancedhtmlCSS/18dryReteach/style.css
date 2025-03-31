@@ -1,0 +1,62 @@
+h2 {
+
+    font-size: 24px;
+
+    margin-bottom: 20px;
+
+    color:grey;
+    color:antiquewhite;
+
+  }
+  .card{
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    font-size: 24px;
+    color:antiquewhite;
+  }
+
+  #one {
+    background-color: darkcyan;
+
+  }
+
+ 
+
+  #two {
+    background-color: goldenrod;
+
+  }
+
+ 
+
+  #three {
+
+    background-color:coral;
+
+  }
+
+
+
+  .card-one h2{
+
+    color:antiquewhite;
+
+  }
+
+ 
+
+  .card-two h2{
+
+    color:antiquewhite;
+
+  }
+
+ 
+
+  .card-three h2{
+
+    color:antiquewhite;
+
+  }
+
