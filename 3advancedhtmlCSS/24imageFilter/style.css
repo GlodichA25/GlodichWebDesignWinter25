@@ -1,6 +1,10 @@
 
 img{
-    filter: invert(100);
+    filter:saturate(100);
     width: 500px;
     height: 500px
+}
+
+#plain:hover{
+    filter: saturate(0)
 }
