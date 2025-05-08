@@ -1,0 +1,16 @@
+body{
+    background-image: url(imgs/ocean.jpeg);
+}
+h1{
+    color: darkslateblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color: darkslateblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a:hover{
+    color: darkslateblue;
+    font-size: 30px;
+    background-color: coral;
+}
